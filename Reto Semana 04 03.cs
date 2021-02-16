@@ -6,6 +6,8 @@ namespace Reto_Semana_04_03
     {
         static void Main(string[] args)
         {
+            //https://youtu.be/hlAwpFMUKEk
+            
             Random random = new Random();
             int dadoAnterior = 0, dadoActual = 0, total = 0, turno = 0;
 
