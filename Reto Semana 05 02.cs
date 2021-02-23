@@ -6,6 +6,8 @@ namespace Reto_Semana_05_01
     {
         static void Main(string[] args)
         {
+            //https://youtu.be/Iv2V5pehKqo
+            
             double x = 0;
             Console.WriteLine("Ingrese el valor de x para e^x");
 
