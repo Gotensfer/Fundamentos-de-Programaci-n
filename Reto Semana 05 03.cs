@@ -6,6 +6,8 @@ namespace Reto_Semana_05_02
     {
         static void Main(string[] args)
         {
+            //https://youtu.be/2Nzl2WjEgjs
+            
             double x = 0;
             Console.WriteLine("Ingrese el valor de x para Sin(x)");
 
