@@ -7,7 +7,7 @@ namespace Reto_Semana_04_04
         static void Main(string[] args)
         {
             //Asumiendo un blackjack jugado en individual y no simultáneo
-
+            //https://youtu.be/bAhHsrOAdZA
             Console.ForegroundColor = ConsoleColor.Cyan;
 
             Random random = new Random();
