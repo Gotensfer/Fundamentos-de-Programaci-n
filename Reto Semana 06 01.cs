@@ -6,6 +6,8 @@ namespace Reto_Semana_06_01
     {
         static void Main(string[] args)
         {
+            //https://youtu.be/hwy6EEoI7ZU
+            
             Random random = new Random();
             int totalPuntos = 0, vidas = 3, contador1s = 0, contador6s = 0, dadosEspecialesRestantes = 2, dado = 0;
             string inputUsuario = "";
