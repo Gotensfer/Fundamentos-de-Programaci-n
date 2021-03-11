@@ -6,6 +6,8 @@ namespace Reto_Semana_08_01
     {
         static void Main(string[] args)
         {
+            //https://youtu.be/ZF5IaXh-QFI
+            
             string fraseUsuario = "";
             string palabraUsario = "";
 
